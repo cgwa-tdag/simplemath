@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/martinberoiz/simplemath.svg?branch=master)](https://travis-ci.org/martinberoiz/simplemath)
 [![codecov](https://codecov.io/gh/martinberoiz/simplemath/branch/master/graph/badge.svg)](https://codecov.io/gh/martinberoiz/simplemath)
 
+_(This is a cookiecutter repo for python projects)_
+
 # Simple Math
 
 Simple Math lets you add two numbers
